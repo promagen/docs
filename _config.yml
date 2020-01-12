@@ -6,5 +6,5 @@ gems:
   - jekyll-sitemap
   - jemoji
 title: ProMaGen
-description: pro-ject ma-nager gen-erator
+description: Project Manager Generator for bash scripts on web interface
 show_downloads: true
