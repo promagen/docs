@@ -1,12 +1,10 @@
-# docs
-Documentation
+# Promagen Documentation
+PROject MAnager & GENerator
 + how it works
 + How to use
 
-# Promagen
-PROject MAnager & GENerator
 
-## How it work's?
+# How it work's?
 Web service on browser is using console for executing bash scripts on server/pc/iot device
 
 Start and maintaince is so simple, without using terminal and many lines of scripts code
@@ -40,7 +38,8 @@ This tool will be used instead of apicra tool, with:
 ### WebBrowser client for terminal console 
 https://github.com/DevOpsTerminal/frontend
 
-## How it works
+
+# How to use?
 NodeJS Installation
 
 https://nodejs.org/en/
