@@ -1,4 +1,23 @@
 # Promagen Documentation
+
+![3/cover.png](https://logo.dombot.com/3/cover.png)
+
++ [Logo](https://logo.promagen.com/)
+
++ [Dokumentacja projektu](https://docs.promagen.com/)
+
++ [Blog](https://blog.promagen.com/)
+
++ [www.dombot.pl](https://www.promagen.com/)
+
+
++ [Aplikacja frontendowa laczaca sie z api](https://app.promagen.com/)
+
++ [Dostep API](https://api.promagen.com/)
+
+
+
+
 PROject MAnager & GENerator
 + how it works
 + How to use
