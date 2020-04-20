@@ -1,6 +1,6 @@
 # Promagen Documentation
 
-![3/cover.png](https://logo.dombot.com/3/cover.png)
+![11/cover.png](https://logo.promagen.com/11/cover.png)
 
 + [Logo](https://logo.promagen.com/)
 
