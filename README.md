@@ -8,7 +8,7 @@
 
 + [Blog](https://blog.promagen.com/)
 
-+ [www.dombot.pl](https://www.promagen.com/)
++ [www.promagen.com](https://www.promagen.com/)
 
 
 + [Aplikacja frontendowa laczaca sie z api](https://app.promagen.com/)
