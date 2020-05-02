@@ -11,9 +11,9 @@
 + [www.promagen.com](https://www.promagen.com/)
 
 
-+ [Aplikacja frontendowa laczaca sie z api](https://app.promagen.com/)
++ (not ready) [Aplikacja frontendowa laczaca sie z api](https://app.promagen.com/)
 
-+ [Dostep API](https://api.promagen.com/)
++ (not ready) [Dostep API](https://api.promagen.com/)
 
 
 
